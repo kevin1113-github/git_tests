@@ -1,2 +1,6 @@
 Hello, world!
+<<<<<<< HEAD
 from local!
+=======
+from web!
+>>>>>>> 1d8f08952a149bc8d51d81dc28b8995aa6a48cfc
